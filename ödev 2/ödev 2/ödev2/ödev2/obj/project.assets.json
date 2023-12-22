@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Documents\\ödev 2\\ödev 2\\ödev2\\ödev2\\ödev2.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\-dev2\\ödev 2\\ödev 2\\ödev2\\ödev2\\ödev2.csproj",
       "projectName": "ödev2",
-      "projectPath": "Z:\\Documents\\ödev 2\\ödev 2\\ödev2\\ödev2\\ödev2.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\-dev2\\ödev 2\\ödev 2\\ödev2\\ödev2\\ödev2.csproj",
       "packagesPath": "C:\\Users\\furkanakdemir\\.nuget\\packages\\",
-      "outputPath": "Z:\\Documents\\ödev 2\\ödev 2\\ödev2\\ödev2\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\-dev2\\ödev 2\\ödev 2\\ödev2\\ödev2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\furkanakdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
